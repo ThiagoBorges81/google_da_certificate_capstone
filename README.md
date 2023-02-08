@@ -1,5 +1,7 @@
 # Google Analytics Certificate Capstone project  
 
+![alt text](/images/bicicle.jpg)
+
 ## Background  
 
 The Google Analytics Certificate requires students to do a case study to test the skills learnt during the course. This capstone project allows students to practice in a "simulated real-world scenario". This case study investigates the hypothetical scenario of a company called "Cyclistic", which offers a bike-share service in Chicago, USA.  
@@ -109,45 +111,42 @@ Figure 1. The data show that from Monday to Friday, the service is mostly used b
 
 **Monthly usage by customer type**  
 
-![alt text](/images/fig1.png)
+![alt text](/images/fig2.png)
 
 figure 2. Casual clients only use the service more than member clients during June, July, and August. Since the days during this period are warmer, it is likely that casual clients use the service for leisure.  
 
 **Average ride duration the customer type usage by day of the week**  
 
-![alt text](/images/fig1.png)
+![alt text](/images/fig3.png)
 
 Figure 3. Casual clients spend substantially more time in the rides compared to their member clients counterparts.  
 
 **Average ride duration by customer type and month**  
 
-![alt text](/images/fig1.png)
+![alt text](/images/fig4.png)
 
 Figure 4. Casual clients use the service for longer duration over the year while the ride duration for member clients remain fairly constant.  
 
-![alt text](/images/fig1.png)
 
 **Looking at the bike types rented**  
 
-![alt text](/images/fig1.png)
+![alt text](/images/fig5.png)
 
 Figure 5. The most used bikes are classic and electric, respectively for both casual and member clients.  
 
-![alt text](/images/fig1.png)
+
 
 **Looking at the demand throughout the day**  
 
-![alt text](/images/fig1.png)
+![alt text](/images/fig6.png)
 
 Figure 6. The figure above suggests that member clients use the bikes to commute to work since peak usage coincide with the time people star and finish working whereas casual clients increase the use over the day and surpass members clients usage during weekends.  
 
 
-![alt text](/images/fig1.png)
-
+![alt text](/images/fig7.png)
 
 Figure 7. When assessing the demand throughout the day for every month of the year, the data show an interesting trend and an opportunity to explore.  
 
-![alt text](/images/fig1.png)
 
 
 ### **Act**  
