@@ -2,6 +2,8 @@
 
 ![alt text](/images/bicicle.jpg)
 
+_Disclaimer:_ All the scenarios, descriptions, and situations in this project are fictional and do not represent any of this company’s views, actions, or opinions. The processes, results, recommendations, and any other information provided in this project have the sole intention to describe my Data Science skills with the approach and solutions provided. The data used in this project was retrieved from a public source provided by Google Analytics Certificate Course and complies with Google's terms and conditions.
+
 ## Background  
 
 The Google Analytics Certificate requires students to do a case study to test the skills learnt during the course. This capstone project allows students to practice in a "simulated real-world scenario". This case study investigates the hypothetical scenario of a company called "Cyclistic", which offers a bike-share service in Chicago, USA.  
